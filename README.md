@@ -1,26 +1,18 @@
-| Attempt | #1  | #2  |
-| :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
-
-
-** Start file by running m to activate the background **
-
-Controls:
- make                                    Runs the file
-  m                                        Toggle between perspective and orthogonal
-  +/-                                      Change field of view of perspective
-  x                                         Toggle axes   
-  l                                          Turns lighting on/off
-  a/A                                     Decrease/increase ambient light
-  p                                         Stops light at starting position
-  s/S                                      Decrease/increase specular level
-  e/E                                      Decrease/increase emission level
-  d/D                                      Decrease/increase diffuse level
-  []                                          Lower/rise light
-  arrows                                 Change view angle
-  fn + up/down/page scroll    Zoom in/out
-  ESC        Exit
-
+| Controls: | Action  |
+| :---:   | :-: |
+| ./make | Runs the file |
+|+/- | Change field of view of perspective|
+| x | Toggle axes |
+|l | Turns lighting on/off |
+|a/A | Decrease/increase ambient light |
+|p | Stops light at starting position |
+|s/S | Decrease/increase specular level |
+|e/E | Decrease/increase emission level |
+|d/D | Decrease/increase diffuse level |
+|[] | Lower/rise light|
+|arrows | Change view angle|
+|fn + up/down/page scroll | Zoom in/out|
+|ESC | Exit|
 
 6/28: Need to correct some lighting issues and positons of a few objects. The objects were all created seperately and then merged into one main file. Additionally, I need to add textures to both Spongebob and Patrick, their houses, and possibly the background as well to have the underwater theme.  I also want to attempt to add motion still but simplify it to them running in a circle in the middle of all their homes as they would do in the actual show to annoy Squidward.
 
