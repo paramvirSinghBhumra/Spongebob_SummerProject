@@ -18,7 +18,7 @@ unsigned int patrick_face;
 
 int    sky[2];   //  Sky textures
 int axes=0;       //  Display axes
-int mode=0;       //  Projection mode
+int mode=1;       //  Projection mode
 int th=0;         //  Azimuth of view angle
 int ph=0;         //  Elevation of view angle
 int fov=55;       //  Field of view (for perspective)
