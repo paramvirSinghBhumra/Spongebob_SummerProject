@@ -1,3 +1,8 @@
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
+
+
 ** Start file by running m to activate the background **
 
 Controls:
