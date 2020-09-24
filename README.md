@@ -1,5 +1,5 @@
 To run the project, type the following the cwd:
-```console
+```bash
 make
 ./main
 ```
