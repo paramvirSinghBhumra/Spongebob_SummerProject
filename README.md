@@ -1,8 +1,14 @@
+To run the project, type the following the cwd:
+```console
+make
+./main
+```
+
+
 <center>
   
 | Controls: | Action  |
 | :---:   | :-: |
-| ./make | Runs the file |
 |+/- | Change field of view of perspective|
 | x | Toggle axes |
 |l | Turns lighting on/off |
